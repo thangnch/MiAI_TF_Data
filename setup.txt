@@ -1,0 +1,5 @@
+tensorflow
+pillow
+scipy
+imutils
+opencv-python-headless
